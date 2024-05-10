@@ -1,2 +1,2 @@
-# Imers-oAluraGoogleIA
+# ImersaoAluraGoogleIA
 Chatbot utilizando Google Colab
